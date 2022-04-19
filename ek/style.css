@@ -108,14 +108,11 @@ body {
 	background-color: #8a7272;
 	color: rgb(241, 234, 234);
 	cursor: pointer;
-	border: 2px dotted black;
-}
-
-.btn:active {
-	background-color: #9b8484;
 	border: 2px solid black;
 }
-
+.btn:hover {
+	background-color: #9e7672;
+}
 .sonders {
 	padding: 10px;
 }
